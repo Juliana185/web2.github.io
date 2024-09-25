@@ -17,10 +17,10 @@ header {
 }
 
 .logo {
-    width: 120px;
-    position: absolute;
-    bottom: 840px;
-    left: 10px;
+    float: left;
+    margin: 10px;
+    width: auto;
+    height: 100px;
 
 }
 
